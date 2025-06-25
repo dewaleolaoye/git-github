@@ -7,3 +7,8 @@ h1 {
   font-weight: 600;
   font-size: 48px;
 }
+
+h2 {
+  color: red;
+  font-weight: 400;
+}
